@@ -1,9 +1,9 @@
 ROCKET SOFTWARE, INC.
 END USER LICENSE AGREEMENT (EULA)
      
-     End User agrees Rocket Software proprietary software products (“Products”) are licensed to End User according to these Software License Terms (“Terms”) between End User and the party accepting End User’s order for the Products (“Licensor”), and govern End User’s rights and obligations in using the Products. 
+End User agrees Rocket Software proprietary software products (“Products”) are licensed to End User according to these Software License Terms (“Terms”) between End User and the party accepting End User’s order for the Products (“Licensor”), and govern End User’s rights and obligations in using the Products. 
      
-     1. LICENSE
+1. LICENSE
      a. Definitions: Concurrent User means a User authorized to use a Product concurrently with other Concurrent Users, limited by a specified maximum number of Concurrent Users at any one time. Documentation means Product user manuals and training materials provided to End User electronically or physically. License means End User’s non-exclusive, non-transferable right to use the object code of licensed Product, and related Documentation, for its own internal business operations within the country in which the Product is first installed (“Territory”), according to the Documentation, and subject to license restrictions. End User means a legal entity executing a written order document with Licensor. Measured License means a License for the time period, number and type of Users, transactions, copies, seats, instructions per second (MIPS) or other quantity or measure specified in writing by Licensor for each Product. Named User means an individual identified User authorized to use a Product. A new Named User may replace a prior Named User. User means a Named User or Concurrent User authorized by End User to use a Product for End User’s internal business purposes. 
      b. Grant. Products are copyrighted by Licensor and are licensed, not sold. Licensor grants to End User a Measured License to use a Product listed in an order document executed by End User and Licensor, and related Documentation. End User may make one copy of the Product for non-production backup purposes. End User’s right to use Product as an Enterprise License or other type of Measured License greater than a single use is specified in the order document. End User’s actual use will not decrease (but may increase) the scope of the License granted and the License fees due.
      c. Restrictions. End User will not: i. rent, lease, or sublicense Product, or use Product for service bureau, hosting, or as an application service provider; ii. permit any third party to access or use Product or Documentation, except for End User’s contractor using Product for End User’s internal business operations, provided End User ensures its contractor complies with the Terms, is not a competitor of Licensor or its licensors, and End User is liable for their acts and omissions; iii. transfer or use Product outside the Territory; iv. use Product except as specified in the Documentation; v. translate, modify or make derivative works of Product or Documentation; vi. reverse engineer, decompile or disassemble a Product, except as permitted by law after End User has disclosed its intended activities in writing to Licensor; vii. exceed the time period for the License, or use a Product in excess of the Measured License which End User purchased; viii. use Product in production if provided under a non-production License; ix. alter Product’s copyright or other intellectual property rights notices; x. infringe or misappropriate Licensor’s or its licensors’ Intellectual Property or Licenses.
@@ -320,5 +320,7 @@ END OF NOTICES for MVoovies Examples and Samples code
 
 
 				          
+
+
 
 
