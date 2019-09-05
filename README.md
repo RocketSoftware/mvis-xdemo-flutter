@@ -1,4 +1,4 @@
-# mvis-xdemo-flutter
+# mvis mobile demo
 
 A new Flutter project.
 
