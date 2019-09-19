@@ -17,10 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 For help getting started with Flutter for **Android and Windows**, view the [Windows and Android integration with Flutter](https://mstapleton22.github.io/Windows-and-Android-integration-with-Flutter/) documentation.
 
-### Dependencies
-* Flutter SDK - This app depends on the Flutter SDK. The Flutter team has developed amazing online documentation. In order to get the MVoovies mobile app up and running, please follow the Flutter installion guide. Complete up to step 3, and then comeback to this wiki continue wth MVoovies specific steps.[Click Here - Flutter Install Guide](https://flutter.dev/docs/get-started/install)
-* MultiValue Integration Server Community Edition - If this is not installed on your local machine, please follow the installation guide found [here](Place holder for MultiValue Personal Edition Installation Guide)
-* UniVerse - If UniVerse is not installed on your machine, please follow the installation guide found [here](https://docs.rocketsoftware.com/nxt/gateway.dll/RKBnew20%2Funiverse%2Fprevious%20versions%2Fv11.2.3%2Funiverse_installguide_v1123.pdf)
+### Prequisites / Dependencies
+* Flutter SDK - This app depends on the Flutter SDK. The Flutter team has developed amazing online documentation. In order to get the MVoovies mobile app up and running, please follow the Flutter installion guide. Complete up to step 3, and then comeback to this wiki continue wth MVoovies specific steps. [Click Here - Flutter Install Guide](https://flutter.dev/docs/get-started/install)
+* MultiValue Integration Server Community Edition - If MVIS is not installed on your machine, please click the link below and follow the included installation guide [here](https://www.rocketsoftware.com/product-categories/dbms-and-application-servers/rocket-u2-trials)
+* UniVerse - If UniVerse is not installed on your machine, please find it [here](https://www.rocketsoftware.com/product-categories/dbms-and-application-servers/rocket-u2-trials) and follow the installation guide that can be found [here](https://docs.rocketsoftware.com/nxt/gateway.dll/RKBnew20%2Funiverse%2Fprevious%20versions%2Fv11.2.3%2Funiverse_installguide_v1123.pdf)
 
 ### Running a Local Instance of the Application
 
