@@ -32,6 +32,7 @@ For help getting started with Flutter for **Android and Windows**, view the [Win
 
 ## Credentials for Login
 Username: agorovoy@rs.com
+
 Password: admin
 
 ### Application Structure
