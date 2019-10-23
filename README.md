@@ -30,6 +30,10 @@ For help getting started with Flutter for **Android and Windows**, view the [Win
     * Make sure that a mobile simulator or actual device is running and connecting to Flutter. This can be confirmed with the `flutter doctor` command
 4. Run `flutter run`. This will start the app on the simulator or device of choice. However, this version is not deployable to app stores. App store deployment and native package information can be found [here](https://flutter.dev/docs/deployment/flavors)
 
+## Credentials for Login
+Username: agorovoy@rs.com
+Password: admin
+
 ### Application Structure
 
 * lib/ - This folder contains all dart classes and widget definitions for the application.
