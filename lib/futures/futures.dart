@@ -16,12 +16,12 @@ returns unfiltered data. That JSON package is then passed to the Collection clas
 constructor which creates a Collection object which is a collection of Movie objects
 */
 Future<Collection> fetchCollection() async {
-  String username = 'agorovoy@rs.com';
+  String username = 'admin';
   String password = 'admin';
   String basicAuth =
       'Basic ' + base64Encode(utf8.encode('$username:$password'));
   final response = await http.get(
-      config.endPointURI + config.port.toString() + '/Xdemo/Products?max=100',
+      config.endPointURI + config.port.toString() + '/XDEMO/Products?max=100',
       headers: {'authorization': basicAuth});
   if (response.statusCode == 200) {
     // If the call to the server was successful, parse the JSON.
@@ -41,12 +41,12 @@ returns unfiltered data. That JSON package is then passed to the Collection clas
 constructor which creates a Collection object which is a collection of Movie objects
 */
 Future<Collection> fetchFilteredCollection(String query) async {
-  String username = 'agorovoy@rs.com';
+  String username = 'admin';
   String password = 'admin';
   String basicAuth =
       'Basic ' + base64Encode(utf8.encode('$username:$password')); 
   final response = await http.get(
-      config.endPointURI + config.port.toString() + '/Xdemo/Products?select=' + query,
+      config.endPointURI + config.port.toString() + '/XDEMO/Products?select=' + query,
       headers: {'authorization': basicAuth});
   if (response.statusCode == 200) {
     // If the call to the server was successful, parse the JSON.
