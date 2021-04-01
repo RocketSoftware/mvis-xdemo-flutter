@@ -24,14 +24,14 @@ For help getting started with Flutter for **Android and Windows**, view the [Win
 
 ### Running a Local Instance of the Application
 
-1. Clone [this](https://github.com/Chimer2017/xdemo_flutter) repo or run `git clone https://github.com/Chimer2017/xdemo_flutter.git`
-2. `cd xdemo_flutter` to naviagte to the root directory of the project
+1. Clone [this](https://github.com/RocketSoftware/mvis-xdemo-flutter) repo or run `git clone https://github.com/RocketSoftware/mvis-xdemo-flutter.git`
+2. Naviagte to the root directory of the project
 3. Run `flutter doctor`. Follow any recommended prompts to fix any issues.
     * Make sure that a mobile simulator or actual device is running and connecting to Flutter. This can be confirmed with the `flutter doctor` command
 4. Run `flutter run`. This will start the app on the simulator or device of choice. However, this version is not deployable to app stores. App store deployment and native package information can be found [here](https://flutter.dev/docs/deployment/flavors)
 
 ### Credentials for Login
-Username: agorovoy@rs.com
+Username: admin
 
 Password: admin
 
@@ -46,7 +46,7 @@ Password: admin
 
 ### Configuration
 
-The demo is by default set to work with a local copy of MVIS communit edition and the default port number. If you wish to configure your MVIS server or run it on premise or in the cloud, the demo will also need to be updated. There is the a "config.js" file in the widgets folder that contains the default port number and endpoint URI. Configure these to connect the demo application with your MVIS server
+The demo is by default set to work with a local copy of MVIS communit edition and the default port number. If you wish to configure your MVIS server or run it on premise or in the cloud, the demo will also need to be updated. There is the a "config.dart" file in the lib folder that contains the default port number and endpoint URI. Configure these to connect the demo application with your MVIS server
 
 
 

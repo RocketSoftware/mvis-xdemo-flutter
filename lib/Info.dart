@@ -81,7 +81,7 @@ class InfoScreenState extends State<InfoScreen> {
                       onPressed: () {
                         showDialog(
                           context: context,
-                          child: AlertDialog(
+                          builder: (context) => new AlertDialog(
                             title: Text("STREAMING NOW"),
                           ),
                         );
